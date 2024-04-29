@@ -1,0 +1,1485 @@
+[
+  {
+    "name": "array_filter",
+    "qualifiedName": "array_filter",
+    "href": "scenarios_array_array_filter/scenarios_array_array_filter-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "Array",
+    "qualifiedName": "array_filter.Array",
+    "href": "scenarios_array_array_filter/Array.html",
+    "kind": 21,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Typedef for Array",
+    "enclosedBy": {
+      "name": "array_filter",
+      "kind": 9,
+      "href": "scenarios_array_array_filter/scenarios_array_array_filter-library.html"
+    }
+  },
+  {
+    "name": "ArrayFilter",
+    "qualifiedName": "array_filter.ArrayFilter",
+    "href": "scenarios_array_array_filter/ArrayFilter-class.html",
+    "kind": 3,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "ArrayFilter class",
+    "enclosedBy": {
+      "name": "array_filter",
+      "kind": 9,
+      "href": "scenarios_array_array_filter/scenarios_array_array_filter-library.html"
+    }
+  },
+  {
+    "name": "ArrayFilter",
+    "qualifiedName": "array_filter.ArrayFilter.ArrayFilter",
+    "href": "scenarios_array_array_filter/ArrayFilter/ArrayFilter.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Constructor for ArrayFilter",
+    "enclosedBy": {
+      "name": "ArrayFilter",
+      "kind": 3,
+      "href": "scenarios_array_array_filter/ArrayFilter-class.html"
+    }
+  },
+  {
+    "name": "aggregationFilter",
+    "qualifiedName": "array_filter.ArrayFilter.aggregationFilter",
+    "href": "scenarios_array_array_filter/ArrayFilter/aggregationFilter.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The filter to be used for aggregation operations.",
+    "enclosedBy": {
+      "name": "ArrayFilter",
+      "kind": 3,
+      "href": "scenarios_array_array_filter/ArrayFilter-class.html"
+    }
+  },
+  {
+    "name": "arrayFilterOperations",
+    "qualifiedName": "array_filter.ArrayFilter.arrayFilterOperations",
+    "href": "scenarios_array_array_filter/ArrayFilter/arrayFilterOperations.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The operation to be performed on the array.",
+    "enclosedBy": {
+      "name": "ArrayFilter",
+      "kind": 3,
+      "href": "scenarios_array_array_filter/ArrayFilter-class.html"
+    }
+  },
+  {
+    "name": "filter",
+    "qualifiedName": "array_filter.ArrayFilter.filter",
+    "href": "scenarios_array_array_filter/ArrayFilter/filter.html",
+    "kind": 10,
+    "overriddenDepth": 1,
+    "packageRank": 0,
+    "desc": "The filter method",
+    "enclosedBy": {
+      "name": "ArrayFilter",
+      "kind": 3,
+      "href": "scenarios_array_array_filter/ArrayFilter-class.html"
+    }
+  },
+  {
+    "name": "ArrayFilter.numberAggregation",
+    "qualifiedName": "array_filter.ArrayFilter.numberAggregation",
+    "href": "scenarios_array_array_filter/ArrayFilter/ArrayFilter.numberAggregation.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Constructor for ArrayFilter with number aggregation",
+    "enclosedBy": {
+      "name": "ArrayFilter",
+      "kind": 3,
+      "href": "scenarios_array_array_filter/ArrayFilter-class.html"
+    }
+  },
+  {
+    "name": "numberAggregation",
+    "qualifiedName": "array_filter.ArrayFilter.numberAggregation",
+    "href": "scenarios_array_array_filter/ArrayFilter/numberAggregation.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The number aggregation operation to be performed.",
+    "enclosedBy": {
+      "name": "ArrayFilter",
+      "kind": 3,
+      "href": "scenarios_array_array_filter/ArrayFilter-class.html"
+    }
+  },
+  {
+    "name": "objectFilter",
+    "qualifiedName": "array_filter.ArrayFilter.objectFilter",
+    "href": "scenarios_array_array_filter/ArrayFilter/objectFilter.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The filter to be applied to the array.",
+    "enclosedBy": {
+      "name": "ArrayFilter",
+      "kind": 3,
+      "href": "scenarios_array_array_filter/ArrayFilter-class.html"
+    }
+  },
+  {
+    "name": "ArrayFilter.stringAggregation",
+    "qualifiedName": "array_filter.ArrayFilter.stringAggregation",
+    "href": "scenarios_array_array_filter/ArrayFilter/ArrayFilter.stringAggregation.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Constructor for ArrayFilter with string aggregation",
+    "enclosedBy": {
+      "name": "ArrayFilter",
+      "kind": 3,
+      "href": "scenarios_array_array_filter/ArrayFilter-class.html"
+    }
+  },
+  {
+    "name": "stringAggregation",
+    "qualifiedName": "array_filter.ArrayFilter.stringAggregation",
+    "href": "scenarios_array_array_filter/ArrayFilter/stringAggregation.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The string aggregation operation to be performed.",
+    "enclosedBy": {
+      "name": "ArrayFilter",
+      "kind": 3,
+      "href": "scenarios_array_array_filter/ArrayFilter-class.html"
+    }
+  },
+  {
+    "name": "array_filter_extension",
+    "qualifiedName": "array_filter_extension",
+    "href": "scenarios_array_extension_array_filter_extension/scenarios_array_extension_array_filter_extension-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "ArrayFilterExtension",
+    "qualifiedName": "array_filter_extension.ArrayFilterExtension",
+    "href": "scenarios_array_extension_array_filter_extension/ArrayFilterExtension.html",
+    "kind": 6,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "ArrayFilterExtension extension",
+    "enclosedBy": {
+      "name": "array_filter_extension",
+      "kind": 9,
+      "href": "scenarios_array_extension_array_filter_extension/scenarios_array_extension_array_filter_extension-library.html"
+    }
+  },
+  {
+    "name": "containsFilter",
+    "qualifiedName": "array_filter_extension.ArrayFilterExtension.containsFilter",
+    "href": "scenarios_array_extension_array_filter_extension/ArrayFilterExtension/containsFilter.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "containsFilter method",
+    "enclosedBy": {
+      "name": "ArrayFilterExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_array_filter_extension/ArrayFilterExtension.html"
+    }
+  },
+  {
+    "name": "getFilteredArrayWithWhere",
+    "qualifiedName": "array_filter_extension.ArrayFilterExtension.getFilteredArrayWithWhere",
+    "href": "scenarios_array_extension_array_filter_extension/ArrayFilterExtension/getFilteredArrayWithWhere.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "getFilteredArrayWithWhere method",
+    "enclosedBy": {
+      "name": "ArrayFilterExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_array_filter_extension/ArrayFilterExtension.html"
+    }
+  },
+  {
+    "name": "summingFilter",
+    "qualifiedName": "array_filter_extension.ArrayFilterExtension.summingFilter",
+    "href": "scenarios_array_extension_array_filter_extension/ArrayFilterExtension/summingFilter.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "summingFilter method",
+    "enclosedBy": {
+      "name": "ArrayFilterExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_array_filter_extension/ArrayFilterExtension.html"
+    }
+  },
+  {
+    "name": "array_filter_operations",
+    "qualifiedName": "array_filter_operations",
+    "href": "scenarios_array_array_filter_operations/scenarios_array_array_filter_operations-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "ArrayFilterOperations",
+    "qualifiedName": "array_filter_operations.ArrayFilterOperations",
+    "href": "scenarios_array_array_filter_operations/ArrayFilterOperations.html",
+    "kind": 5,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Enum for ArrayFilterOperations",
+    "enclosedBy": {
+      "name": "array_filter_operations",
+      "kind": 9,
+      "href": "scenarios_array_array_filter_operations/scenarios_array_array_filter_operations-library.html"
+    }
+  },
+  {
+    "name": "ArrayFilterOperations",
+    "qualifiedName": "array_filter_operations.ArrayFilterOperations.ArrayFilterOperations",
+    "href": "scenarios_array_array_filter_operations/ArrayFilterOperations/ArrayFilterOperations.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "",
+    "enclosedBy": {
+      "name": "ArrayFilterOperations",
+      "kind": 5,
+      "href": "scenarios_array_array_filter_operations/ArrayFilterOperations.html"
+    }
+  },
+  {
+    "name": "values",
+    "qualifiedName": "array_filter_operations.ArrayFilterOperations.values",
+    "href": "scenarios_array_array_filter_operations/ArrayFilterOperations/values-constant.html",
+    "kind": 1,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "A constant List of the values in this enum, in order of their declaration.",
+    "enclosedBy": {
+      "name": "ArrayFilterOperations",
+      "kind": 5,
+      "href": "scenarios_array_array_filter_operations/ArrayFilterOperations.html"
+    }
+  },
+  {
+    "name": "concatenate_filter",
+    "qualifiedName": "concatenate_filter",
+    "href": "scenarios_concatenate_concatenate_filter/scenarios_concatenate_concatenate_filter-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "ConcatenateFilter",
+    "qualifiedName": "concatenate_filter.ConcatenateFilter",
+    "href": "scenarios_concatenate_concatenate_filter/ConcatenateFilter-class.html",
+    "kind": 3,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "ConcatenateFilter class",
+    "enclosedBy": {
+      "name": "concatenate_filter",
+      "kind": 9,
+      "href": "scenarios_concatenate_concatenate_filter/scenarios_concatenate_concatenate_filter-library.html"
+    }
+  },
+  {
+    "name": "ConcatenateFilter",
+    "qualifiedName": "concatenate_filter.ConcatenateFilter.ConcatenateFilter",
+    "href": "scenarios_concatenate_concatenate_filter/ConcatenateFilter/ConcatenateFilter.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Constructor for ConcatenateFilter",
+    "enclosedBy": {
+      "name": "ConcatenateFilter",
+      "kind": 3,
+      "href": "scenarios_concatenate_concatenate_filter/ConcatenateFilter-class.html"
+    }
+  },
+  {
+    "name": "calculateScore",
+    "qualifiedName": "concatenate_filter.ConcatenateFilter.calculateScore",
+    "href": "scenarios_concatenate_concatenate_filter/ConcatenateFilter/calculateScore.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The calculateScore method",
+    "enclosedBy": {
+      "name": "ConcatenateFilter",
+      "kind": 3,
+      "href": "scenarios_concatenate_concatenate_filter/ConcatenateFilter-class.html"
+    }
+  },
+  {
+    "name": "concatenateOperator",
+    "qualifiedName": "concatenate_filter.ConcatenateFilter.concatenateOperator",
+    "href": "scenarios_concatenate_concatenate_filter/ConcatenateFilter/concatenateOperator.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The operation to be performed on the data.",
+    "enclosedBy": {
+      "name": "ConcatenateFilter",
+      "kind": 3,
+      "href": "scenarios_concatenate_concatenate_filter/ConcatenateFilter-class.html"
+    }
+  },
+  {
+    "name": "data",
+    "qualifiedName": "concatenate_filter.ConcatenateFilter.data",
+    "href": "scenarios_concatenate_concatenate_filter/ConcatenateFilter/data.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The data to be filtered.",
+    "enclosedBy": {
+      "name": "ConcatenateFilter",
+      "kind": 3,
+      "href": "scenarios_concatenate_concatenate_filter/ConcatenateFilter-class.html"
+    }
+  },
+  {
+    "name": "filter",
+    "qualifiedName": "concatenate_filter.ConcatenateFilter.filter",
+    "href": "scenarios_concatenate_concatenate_filter/ConcatenateFilter/filter.html",
+    "kind": 10,
+    "overriddenDepth": 1,
+    "packageRank": 0,
+    "desc": "The filter method",
+    "enclosedBy": {
+      "name": "ConcatenateFilter",
+      "kind": 3,
+      "href": "scenarios_concatenate_concatenate_filter/ConcatenateFilter-class.html"
+    }
+  },
+  {
+    "name": "filters",
+    "qualifiedName": "concatenate_filter.ConcatenateFilter.filters",
+    "href": "scenarios_concatenate_concatenate_filter/ConcatenateFilter/filters.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The filters to be applied to the data.",
+    "enclosedBy": {
+      "name": "ConcatenateFilter",
+      "kind": 3,
+      "href": "scenarios_concatenate_concatenate_filter/ConcatenateFilter-class.html"
+    }
+  },
+  {
+    "name": "concatenate_operations",
+    "qualifiedName": "concatenate_operations",
+    "href": "scenarios_concatenate_concatenate_operations/scenarios_concatenate_concatenate_operations-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "ConcatenateOperations",
+    "qualifiedName": "concatenate_operations.ConcatenateOperations",
+    "href": "scenarios_concatenate_concatenate_operations/ConcatenateOperations.html",
+    "kind": 5,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Enum for ConcatenateOperations",
+    "enclosedBy": {
+      "name": "concatenate_operations",
+      "kind": 9,
+      "href": "scenarios_concatenate_concatenate_operations/scenarios_concatenate_concatenate_operations-library.html"
+    }
+  },
+  {
+    "name": "ConcatenateOperations",
+    "qualifiedName": "concatenate_operations.ConcatenateOperations.ConcatenateOperations",
+    "href": "scenarios_concatenate_concatenate_operations/ConcatenateOperations/ConcatenateOperations.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "",
+    "enclosedBy": {
+      "name": "ConcatenateOperations",
+      "kind": 5,
+      "href": "scenarios_concatenate_concatenate_operations/ConcatenateOperations.html"
+    }
+  },
+  {
+    "name": "values",
+    "qualifiedName": "concatenate_operations.ConcatenateOperations.values",
+    "href": "scenarios_concatenate_concatenate_operations/ConcatenateOperations/values-constant.html",
+    "kind": 1,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "A constant List of the values in this enum, in order of their declaration.",
+    "enclosedBy": {
+      "name": "ConcatenateOperations",
+      "kind": 5,
+      "href": "scenarios_concatenate_concatenate_operations/ConcatenateOperations.html"
+    }
+  },
+  {
+    "name": "filter",
+    "qualifiedName": "filter",
+    "href": "core_filter/core_filter-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "Filter",
+    "qualifiedName": "filter.Filter",
+    "href": "core_filter/Filter-class.html",
+    "kind": 3,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Filter abstract class",
+    "enclosedBy": {
+      "name": "filter",
+      "kind": 9,
+      "href": "core_filter/core_filter-library.html"
+    }
+  },
+  {
+    "name": "Filter",
+    "qualifiedName": "filter.Filter.Filter",
+    "href": "core_filter/Filter/Filter.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Constructor for Filter",
+    "enclosedBy": {
+      "name": "Filter",
+      "kind": 3,
+      "href": "core_filter/Filter-class.html"
+    }
+  },
+  {
+    "name": "filter",
+    "qualifiedName": "filter.Filter.filter",
+    "href": "core_filter/Filter/filter.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Filter method",
+    "enclosedBy": {
+      "name": "Filter",
+      "kind": 3,
+      "href": "core_filter/Filter-class.html"
+    }
+  },
+  {
+    "name": "successScore",
+    "qualifiedName": "filter.Filter.successScore",
+    "href": "core_filter/Filter/successScore.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The score to be returned when the filter is successful.\nThis property represents the score that will be returned by the\nScenario's calculateScore method if the filter's conditions are met.",
+    "enclosedBy": {
+      "name": "Filter",
+      "kind": 3,
+      "href": "core_filter/Filter-class.html"
+    }
+  },
+  {
+    "name": "json_filter",
+    "qualifiedName": "json_filter",
+    "href": "scenarios_json_json_filter/scenarios_json_json_filter-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "Json",
+    "qualifiedName": "json_filter.Json",
+    "href": "scenarios_json_json_filter/Json.html",
+    "kind": 21,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Typedef for Json",
+    "enclosedBy": {
+      "name": "json_filter",
+      "kind": 9,
+      "href": "scenarios_json_json_filter/scenarios_json_json_filter-library.html"
+    }
+  },
+  {
+    "name": "JsonFilter",
+    "qualifiedName": "json_filter.JsonFilter",
+    "href": "scenarios_json_json_filter/JsonFilter-class.html",
+    "kind": 3,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "JsonFilter class",
+    "enclosedBy": {
+      "name": "json_filter",
+      "kind": 9,
+      "href": "scenarios_json_json_filter/scenarios_json_json_filter-library.html"
+    }
+  },
+  {
+    "name": "JsonFilter",
+    "qualifiedName": "json_filter.JsonFilter.JsonFilter",
+    "href": "scenarios_json_json_filter/JsonFilter/JsonFilter.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Constructor for JsonFilter",
+    "enclosedBy": {
+      "name": "JsonFilter",
+      "kind": 3,
+      "href": "scenarios_json_json_filter/JsonFilter-class.html"
+    }
+  },
+  {
+    "name": "JsonFilter.array",
+    "qualifiedName": "json_filter.JsonFilter.array",
+    "href": "scenarios_json_json_filter/JsonFilter/JsonFilter.array.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Constructor for JsonFilter with array",
+    "enclosedBy": {
+      "name": "JsonFilter",
+      "kind": 3,
+      "href": "scenarios_json_json_filter/JsonFilter-class.html"
+    }
+  },
+  {
+    "name": "arrayFilter",
+    "qualifiedName": "json_filter.JsonFilter.arrayFilter",
+    "href": "scenarios_json_json_filter/JsonFilter/arrayFilter.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Indicates whether the filter is an array filter.",
+    "enclosedBy": {
+      "name": "JsonFilter",
+      "kind": 3,
+      "href": "scenarios_json_json_filter/JsonFilter-class.html"
+    }
+  },
+  {
+    "name": "arrayOperator",
+    "qualifiedName": "json_filter.JsonFilter.arrayOperator",
+    "href": "scenarios_json_json_filter/JsonFilter/arrayOperator.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The operation to be performed on the array, if the filter is an\narray filter.",
+    "enclosedBy": {
+      "name": "JsonFilter",
+      "kind": 3,
+      "href": "scenarios_json_json_filter/JsonFilter-class.html"
+    }
+  },
+  {
+    "name": "checkNumericValue",
+    "qualifiedName": "json_filter.JsonFilter.checkNumericValue",
+    "href": "scenarios_json_json_filter/JsonFilter/checkNumericValue.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The checkNumericValue method",
+    "enclosedBy": {
+      "name": "JsonFilter",
+      "kind": 3,
+      "href": "scenarios_json_json_filter/JsonFilter-class.html"
+    }
+  },
+  {
+    "name": "filter",
+    "qualifiedName": "json_filter.JsonFilter.filter",
+    "href": "scenarios_json_json_filter/JsonFilter/filter.html",
+    "kind": 10,
+    "overriddenDepth": 1,
+    "packageRank": 0,
+    "desc": "The filter method",
+    "enclosedBy": {
+      "name": "JsonFilter",
+      "kind": 3,
+      "href": "scenarios_json_json_filter/JsonFilter-class.html"
+    }
+  },
+  {
+    "name": "key",
+    "qualifiedName": "json_filter.JsonFilter.key",
+    "href": "scenarios_json_json_filter/JsonFilter/key.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The key to be used for filtering.",
+    "enclosedBy": {
+      "name": "JsonFilter",
+      "kind": 3,
+      "href": "scenarios_json_json_filter/JsonFilter-class.html"
+    }
+  },
+  {
+    "name": "operator",
+    "qualifiedName": "json_filter.JsonFilter.operator",
+    "href": "scenarios_json_json_filter/JsonFilter/operator.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The operation to be performed on the Json object.",
+    "enclosedBy": {
+      "name": "JsonFilter",
+      "kind": 3,
+      "href": "scenarios_json_json_filter/JsonFilter-class.html"
+    }
+  },
+  {
+    "name": "value",
+    "qualifiedName": "json_filter.JsonFilter.value",
+    "href": "scenarios_json_json_filter/JsonFilter/value.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The value to be used for filtering.",
+    "enclosedBy": {
+      "name": "JsonFilter",
+      "kind": 3,
+      "href": "scenarios_json_json_filter/JsonFilter-class.html"
+    }
+  },
+  {
+    "name": "json_filter_exception",
+    "qualifiedName": "json_filter_exception",
+    "href": "scenarios_json_json_filter_exception/scenarios_json_json_filter_exception-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "InvalidArrayTypeException",
+    "qualifiedName": "json_filter_exception.InvalidArrayTypeException",
+    "href": "scenarios_json_json_filter_exception/InvalidArrayTypeException-class.html",
+    "kind": 3,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "InvalidArrayTypeException class",
+    "enclosedBy": {
+      "name": "json_filter_exception",
+      "kind": 9,
+      "href": "scenarios_json_json_filter_exception/scenarios_json_json_filter_exception-library.html"
+    }
+  },
+  {
+    "name": "InvalidArrayTypeException",
+    "qualifiedName": "json_filter_exception.InvalidArrayTypeException.InvalidArrayTypeException",
+    "href": "scenarios_json_json_filter_exception/InvalidArrayTypeException/InvalidArrayTypeException.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Constructor for InvalidArrayTypeException",
+    "enclosedBy": {
+      "name": "InvalidArrayTypeException",
+      "kind": 3,
+      "href": "scenarios_json_json_filter_exception/InvalidArrayTypeException-class.html"
+    }
+  },
+  {
+    "name": "message",
+    "qualifiedName": "json_filter_exception.InvalidArrayTypeException.message",
+    "href": "scenarios_json_json_filter_exception/InvalidArrayTypeException/message.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The message describing the exception.",
+    "enclosedBy": {
+      "name": "InvalidArrayTypeException",
+      "kind": 3,
+      "href": "scenarios_json_json_filter_exception/InvalidArrayTypeException-class.html"
+    }
+  },
+  {
+    "name": "toString",
+    "qualifiedName": "json_filter_exception.InvalidArrayTypeException.toString",
+    "href": "scenarios_json_json_filter_exception/InvalidArrayTypeException/toString.html",
+    "kind": 10,
+    "overriddenDepth": 1,
+    "packageRank": 0,
+    "desc": "The toString method",
+    "enclosedBy": {
+      "name": "InvalidArrayTypeException",
+      "kind": 3,
+      "href": "scenarios_json_json_filter_exception/InvalidArrayTypeException-class.html"
+    }
+  },
+  {
+    "name": "NonNumericValueException",
+    "qualifiedName": "json_filter_exception.NonNumericValueException",
+    "href": "scenarios_json_json_filter_exception/NonNumericValueException-class.html",
+    "kind": 3,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "NonNumericValueException class",
+    "enclosedBy": {
+      "name": "json_filter_exception",
+      "kind": 9,
+      "href": "scenarios_json_json_filter_exception/scenarios_json_json_filter_exception-library.html"
+    }
+  },
+  {
+    "name": "NonNumericValueException",
+    "qualifiedName": "json_filter_exception.NonNumericValueException.NonNumericValueException",
+    "href": "scenarios_json_json_filter_exception/NonNumericValueException/NonNumericValueException.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Constructor for NonNumericValueException",
+    "enclosedBy": {
+      "name": "NonNumericValueException",
+      "kind": 3,
+      "href": "scenarios_json_json_filter_exception/NonNumericValueException-class.html"
+    }
+  },
+  {
+    "name": "message",
+    "qualifiedName": "json_filter_exception.NonNumericValueException.message",
+    "href": "scenarios_json_json_filter_exception/NonNumericValueException/message.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The message describing the exception.",
+    "enclosedBy": {
+      "name": "NonNumericValueException",
+      "kind": 3,
+      "href": "scenarios_json_json_filter_exception/NonNumericValueException-class.html"
+    }
+  },
+  {
+    "name": "toString",
+    "qualifiedName": "json_filter_exception.NonNumericValueException.toString",
+    "href": "scenarios_json_json_filter_exception/NonNumericValueException/toString.html",
+    "kind": 10,
+    "overriddenDepth": 1,
+    "packageRank": 0,
+    "desc": "The toString method",
+    "enclosedBy": {
+      "name": "NonNumericValueException",
+      "kind": 3,
+      "href": "scenarios_json_json_filter_exception/NonNumericValueException-class.html"
+    }
+  },
+  {
+    "name": "json_filter_operations",
+    "qualifiedName": "json_filter_operations",
+    "href": "scenarios_json_json_filter_operations/scenarios_json_json_filter_operations-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "JsonFilterOperations",
+    "qualifiedName": "json_filter_operations.JsonFilterOperations",
+    "href": "scenarios_json_json_filter_operations/JsonFilterOperations.html",
+    "kind": 5,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Enum for JsonFilterOperations",
+    "enclosedBy": {
+      "name": "json_filter_operations",
+      "kind": 9,
+      "href": "scenarios_json_json_filter_operations/scenarios_json_json_filter_operations-library.html"
+    }
+  },
+  {
+    "name": "JsonFilterOperations",
+    "qualifiedName": "json_filter_operations.JsonFilterOperations.JsonFilterOperations",
+    "href": "scenarios_json_json_filter_operations/JsonFilterOperations/JsonFilterOperations.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "",
+    "enclosedBy": {
+      "name": "JsonFilterOperations",
+      "kind": 5,
+      "href": "scenarios_json_json_filter_operations/JsonFilterOperations.html"
+    }
+  },
+  {
+    "name": "values",
+    "qualifiedName": "json_filter_operations.JsonFilterOperations.values",
+    "href": "scenarios_json_json_filter_operations/JsonFilterOperations/values-constant.html",
+    "kind": 1,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "A constant List of the values in this enum, in order of their declaration.",
+    "enclosedBy": {
+      "name": "JsonFilterOperations",
+      "kind": 5,
+      "href": "scenarios_json_json_filter_operations/JsonFilterOperations.html"
+    }
+  },
+  {
+    "name": "null_exception",
+    "qualifiedName": "null_exception",
+    "href": "core_exception_null_exception/core_exception_null_exception-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "NullException",
+    "qualifiedName": "null_exception.NullException",
+    "href": "core_exception_null_exception/NullException-class.html",
+    "kind": 3,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "NullException class",
+    "enclosedBy": {
+      "name": "null_exception",
+      "kind": 9,
+      "href": "core_exception_null_exception/core_exception_null_exception-library.html"
+    }
+  },
+  {
+    "name": "NullException",
+    "qualifiedName": "null_exception.NullException.NullException",
+    "href": "core_exception_null_exception/NullException/NullException.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Constructor for NullException",
+    "enclosedBy": {
+      "name": "NullException",
+      "kind": 3,
+      "href": "core_exception_null_exception/NullException-class.html"
+    }
+  },
+  {
+    "name": "message",
+    "qualifiedName": "null_exception.NullException.message",
+    "href": "core_exception_null_exception/NullException/message.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The message describing the exception.",
+    "enclosedBy": {
+      "name": "NullException",
+      "kind": 3,
+      "href": "core_exception_null_exception/NullException-class.html"
+    }
+  },
+  {
+    "name": "toString",
+    "qualifiedName": "null_exception.NullException.toString",
+    "href": "core_exception_null_exception/NullException/toString.html",
+    "kind": 10,
+    "overriddenDepth": 1,
+    "packageRank": 0,
+    "desc": "The toString method",
+    "enclosedBy": {
+      "name": "NullException",
+      "kind": 3,
+      "href": "core_exception_null_exception/NullException-class.html"
+    }
+  },
+  {
+    "name": "number_aggregation",
+    "qualifiedName": "number_aggregation",
+    "href": "scenarios_array_extension_number_aggregation/scenarios_array_extension_number_aggregation-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "NumberAggregation",
+    "qualifiedName": "number_aggregation.NumberAggregation",
+    "href": "scenarios_array_extension_number_aggregation/NumberAggregation.html",
+    "kind": 5,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "NumberAggregation enum",
+    "enclosedBy": {
+      "name": "number_aggregation",
+      "kind": 9,
+      "href": "scenarios_array_extension_number_aggregation/scenarios_array_extension_number_aggregation-library.html"
+    }
+  },
+  {
+    "name": "NumberAggregation",
+    "qualifiedName": "number_aggregation.NumberAggregation.NumberAggregation",
+    "href": "scenarios_array_extension_number_aggregation/NumberAggregation/NumberAggregation.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "",
+    "enclosedBy": {
+      "name": "NumberAggregation",
+      "kind": 5,
+      "href": "scenarios_array_extension_number_aggregation/NumberAggregation.html"
+    }
+  },
+  {
+    "name": "values",
+    "qualifiedName": "number_aggregation.NumberAggregation.values",
+    "href": "scenarios_array_extension_number_aggregation/NumberAggregation/values-constant.html",
+    "kind": 1,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "A constant List of the values in this enum, in order of their declaration.",
+    "enclosedBy": {
+      "name": "NumberAggregation",
+      "kind": 5,
+      "href": "scenarios_array_extension_number_aggregation/NumberAggregation.html"
+    }
+  },
+  {
+    "name": "number_aggregation_extension",
+    "qualifiedName": "number_aggregation_extension",
+    "href": "scenarios_array_extension_number_aggregation_extension/scenarios_array_extension_number_aggregation_extension-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "NumberAggregationExtension",
+    "qualifiedName": "number_aggregation_extension.NumberAggregationExtension",
+    "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension.html",
+    "kind": 6,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "NumberAggregationExtension extension",
+    "enclosedBy": {
+      "name": "number_aggregation_extension",
+      "kind": 9,
+      "href": "scenarios_array_extension_number_aggregation_extension/scenarios_array_extension_number_aggregation_extension-library.html"
+    }
+  },
+  {
+    "name": "filterWithAverage",
+    "qualifiedName": "number_aggregation_extension.NumberAggregationExtension.filterWithAverage",
+    "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension/filterWithAverage.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "filterWithAverage method",
+    "enclosedBy": {
+      "name": "NumberAggregationExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension.html"
+    }
+  },
+  {
+    "name": "filterWithCount",
+    "qualifiedName": "number_aggregation_extension.NumberAggregationExtension.filterWithCount",
+    "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension/filterWithCount.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "filterWithCount method",
+    "enclosedBy": {
+      "name": "NumberAggregationExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension.html"
+    }
+  },
+  {
+    "name": "filterWithMax",
+    "qualifiedName": "number_aggregation_extension.NumberAggregationExtension.filterWithMax",
+    "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension/filterWithMax.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "filterWithMax method",
+    "enclosedBy": {
+      "name": "NumberAggregationExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension.html"
+    }
+  },
+  {
+    "name": "filterWithMedian",
+    "qualifiedName": "number_aggregation_extension.NumberAggregationExtension.filterWithMedian",
+    "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension/filterWithMedian.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "filterWithMedian method",
+    "enclosedBy": {
+      "name": "NumberAggregationExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension.html"
+    }
+  },
+  {
+    "name": "filterWithMin",
+    "qualifiedName": "number_aggregation_extension.NumberAggregationExtension.filterWithMin",
+    "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension/filterWithMin.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "filterWithMin method",
+    "enclosedBy": {
+      "name": "NumberAggregationExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension.html"
+    }
+  },
+  {
+    "name": "filterWithPercentile",
+    "qualifiedName": "number_aggregation_extension.NumberAggregationExtension.filterWithPercentile",
+    "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension/filterWithPercentile.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "filterWithPercentile method",
+    "enclosedBy": {
+      "name": "NumberAggregationExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension.html"
+    }
+  },
+  {
+    "name": "filterWithStandardDeviation",
+    "qualifiedName": "number_aggregation_extension.NumberAggregationExtension.filterWithStandardDeviation",
+    "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension/filterWithStandardDeviation.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "filterWithStandardDeviation method",
+    "enclosedBy": {
+      "name": "NumberAggregationExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension.html"
+    }
+  },
+  {
+    "name": "filterWithSum",
+    "qualifiedName": "number_aggregation_extension.NumberAggregationExtension.filterWithSum",
+    "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension/filterWithSum.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "filterWithSum method",
+    "enclosedBy": {
+      "name": "NumberAggregationExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension.html"
+    }
+  },
+  {
+    "name": "filterWithVariance",
+    "qualifiedName": "number_aggregation_extension.NumberAggregationExtension.filterWithVariance",
+    "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension/filterWithVariance.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "filterWithVariance method",
+    "enclosedBy": {
+      "name": "NumberAggregationExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension.html"
+    }
+  },
+  {
+    "name": "numberAggregationFilterFunction",
+    "qualifiedName": "number_aggregation_extension.NumberAggregationExtension.numberAggregationFilterFunction",
+    "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension/numberAggregationFilterFunction.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "This method takes a NumberAggregation enum value and an array as\nparameters.\nIt applies the aggregation operation specified by the enum value to the\narray.",
+    "enclosedBy": {
+      "name": "NumberAggregationExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_number_aggregation_extension/NumberAggregationExtension.html"
+    }
+  },
+  {
+    "name": "scenario",
+    "qualifiedName": "scenario",
+    "href": "core_scenario/core_scenario-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "Scenario",
+    "qualifiedName": "scenario.Scenario",
+    "href": "core_scenario/Scenario-class.html",
+    "kind": 3,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Scenario class\nThis class is used to create a scenario object that uses a filter object\nfor its calculations.",
+    "enclosedBy": {
+      "name": "scenario",
+      "kind": 9,
+      "href": "core_scenario/core_scenario-library.html"
+    }
+  },
+  {
+    "name": "Scenario",
+    "qualifiedName": "scenario.Scenario.Scenario",
+    "href": "core_scenario/Scenario/Scenario.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Constructor for Scenario class",
+    "enclosedBy": {
+      "name": "Scenario",
+      "kind": 3,
+      "href": "core_scenario/Scenario-class.html"
+    }
+  },
+  {
+    "name": "calculateScore",
+    "qualifiedName": "scenario.Scenario.calculateScore",
+    "href": "core_scenario/Scenario/calculateScore.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Calculate the score of the scenario",
+    "enclosedBy": {
+      "name": "Scenario",
+      "kind": 3,
+      "href": "core_scenario/Scenario-class.html"
+    }
+  },
+  {
+    "name": "filter",
+    "qualifiedName": "scenario.Scenario.filter",
+    "href": "core_scenario/Scenario/filter.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Filter method",
+    "enclosedBy": {
+      "name": "Scenario",
+      "kind": 3,
+      "href": "core_scenario/Scenario-class.html"
+    }
+  },
+  {
+    "name": "getCurrentMillisecondsSinceEpoch",
+    "qualifiedName": "scenario.Scenario.getCurrentMillisecondsSinceEpoch",
+    "href": "core_scenario/Scenario/getCurrentMillisecondsSinceEpoch.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Returns the current time in milliseconds since epoch\nThis method is used to get the current time in milliseconds since epoch.\nIt is used in the calculateScore method to calculate the total scoring\ntime.",
+    "enclosedBy": {
+      "name": "Scenario",
+      "kind": 3,
+      "href": "core_scenario/Scenario-class.html"
+    }
+  },
+  {
+    "name": "scenario_result",
+    "qualifiedName": "scenario_result",
+    "href": "core_scenario_result/core_scenario_result-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "ScenarioResult",
+    "qualifiedName": "scenario_result.ScenarioResult",
+    "href": "core_scenario_result/ScenarioResult-class.html",
+    "kind": 3,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "ScenarioResult class",
+    "enclosedBy": {
+      "name": "scenario_result",
+      "kind": 9,
+      "href": "core_scenario_result/core_scenario_result-library.html"
+    }
+  },
+  {
+    "name": "ScenarioResult",
+    "qualifiedName": "scenario_result.ScenarioResult.ScenarioResult",
+    "href": "core_scenario_result/ScenarioResult/ScenarioResult.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Constructor",
+    "enclosedBy": {
+      "name": "ScenarioResult",
+      "kind": 3,
+      "href": "core_scenario_result/ScenarioResult-class.html"
+    }
+  },
+  {
+    "name": "score",
+    "qualifiedName": "scenario_result.ScenarioResult.score",
+    "href": "core_scenario_result/ScenarioResult/score.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The score of the scenario.",
+    "enclosedBy": {
+      "name": "ScenarioResult",
+      "kind": 3,
+      "href": "core_scenario_result/ScenarioResult-class.html"
+    }
+  },
+  {
+    "name": "totalScoringTime",
+    "qualifiedName": "scenario_result.ScenarioResult.totalScoringTime",
+    "href": "core_scenario_result/ScenarioResult/totalScoringTime.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The total time taken to calculate the score.",
+    "enclosedBy": {
+      "name": "ScenarioResult",
+      "kind": 3,
+      "href": "core_scenario_result/ScenarioResult-class.html"
+    }
+  },
+  {
+    "name": "type",
+    "qualifiedName": "scenario_result.ScenarioResult.type",
+    "href": "core_scenario_result/ScenarioResult/type.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The type of the scenario.",
+    "enclosedBy": {
+      "name": "ScenarioResult",
+      "kind": 3,
+      "href": "core_scenario_result/ScenarioResult-class.html"
+    }
+  },
+  {
+    "name": "scenario_type",
+    "qualifiedName": "scenario_type",
+    "href": "core_scenario_type/core_scenario_type-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "ScenarioType",
+    "qualifiedName": "scenario_type.ScenarioType",
+    "href": "core_scenario_type/ScenarioType.html",
+    "kind": 5,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "ScenarioType enum",
+    "enclosedBy": {
+      "name": "scenario_type",
+      "kind": 9,
+      "href": "core_scenario_type/core_scenario_type-library.html"
+    }
+  },
+  {
+    "name": "ScenarioType",
+    "qualifiedName": "scenario_type.ScenarioType.ScenarioType",
+    "href": "core_scenario_type/ScenarioType/ScenarioType.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "",
+    "enclosedBy": {
+      "name": "ScenarioType",
+      "kind": 5,
+      "href": "core_scenario_type/ScenarioType.html"
+    }
+  },
+  {
+    "name": "values",
+    "qualifiedName": "scenario_type.ScenarioType.values",
+    "href": "core_scenario_type/ScenarioType/values-constant.html",
+    "kind": 1,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "A constant List of the values in this enum, in order of their declaration.",
+    "enclosedBy": {
+      "name": "ScenarioType",
+      "kind": 5,
+      "href": "core_scenario_type/ScenarioType.html"
+    }
+  },
+  {
+    "name": "string_aggregation_extension",
+    "qualifiedName": "string_aggregation_extension",
+    "href": "scenarios_array_extension_string_aggregation_extension/scenarios_array_extension_string_aggregation_extension-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "StringAggregation",
+    "qualifiedName": "string_aggregation_extension.StringAggregation",
+    "href": "scenarios_array_extension_string_aggregation_extension/StringAggregation.html",
+    "kind": 5,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Enum for StringAggregation operations",
+    "enclosedBy": {
+      "name": "string_aggregation_extension",
+      "kind": 9,
+      "href": "scenarios_array_extension_string_aggregation_extension/scenarios_array_extension_string_aggregation_extension-library.html"
+    }
+  },
+  {
+    "name": "StringAggregation",
+    "qualifiedName": "string_aggregation_extension.StringAggregation.StringAggregation",
+    "href": "scenarios_array_extension_string_aggregation_extension/StringAggregation/StringAggregation.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "",
+    "enclosedBy": {
+      "name": "StringAggregation",
+      "kind": 5,
+      "href": "scenarios_array_extension_string_aggregation_extension/StringAggregation.html"
+    }
+  },
+  {
+    "name": "values",
+    "qualifiedName": "string_aggregation_extension.StringAggregation.values",
+    "href": "scenarios_array_extension_string_aggregation_extension/StringAggregation/values-constant.html",
+    "kind": 1,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "A constant List of the values in this enum, in order of their declaration.",
+    "enclosedBy": {
+      "name": "StringAggregation",
+      "kind": 5,
+      "href": "scenarios_array_extension_string_aggregation_extension/StringAggregation.html"
+    }
+  },
+  {
+    "name": "StringAggregationExtension",
+    "qualifiedName": "string_aggregation_extension.StringAggregationExtension",
+    "href": "scenarios_array_extension_string_aggregation_extension/StringAggregationExtension.html",
+    "kind": 6,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Extension on ArrayFilter for StringAggregation operations",
+    "enclosedBy": {
+      "name": "string_aggregation_extension",
+      "kind": 9,
+      "href": "scenarios_array_extension_string_aggregation_extension/scenarios_array_extension_string_aggregation_extension-library.html"
+    }
+  },
+  {
+    "name": "filterWithSum",
+    "qualifiedName": "string_aggregation_extension.StringAggregationExtension.filterWithSum",
+    "href": "scenarios_array_extension_string_aggregation_extension/StringAggregationExtension/filterWithSum.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Concatenates all the string values in the array",
+    "enclosedBy": {
+      "name": "StringAggregationExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_string_aggregation_extension/StringAggregationExtension.html"
+    }
+  },
+  {
+    "name": "stringAggregationFilterFunction",
+    "qualifiedName": "string_aggregation_extension.StringAggregationExtension.stringAggregationFilterFunction",
+    "href": "scenarios_array_extension_string_aggregation_extension/StringAggregationExtension/stringAggregationFilterFunction.html",
+    "kind": 10,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Applies the specified StringAggregation operation to the array",
+    "enclosedBy": {
+      "name": "StringAggregationExtension",
+      "kind": 6,
+      "href": "scenarios_array_extension_string_aggregation_extension/StringAggregationExtension.html"
+    }
+  },
+  {
+    "name": "unhandled_exception",
+    "qualifiedName": "unhandled_exception",
+    "href": "core_exception_unhandled_exception/core_exception_unhandled_exception-library.html",
+    "kind": 9,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": ""
+  },
+  {
+    "name": "UnhandledException",
+    "qualifiedName": "unhandled_exception.UnhandledException",
+    "href": "core_exception_unhandled_exception/UnhandledException-class.html",
+    "kind": 3,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "UnhandledException class",
+    "enclosedBy": {
+      "name": "unhandled_exception",
+      "kind": 9,
+      "href": "core_exception_unhandled_exception/core_exception_unhandled_exception-library.html"
+    }
+  },
+  {
+    "name": "UnhandledException",
+    "qualifiedName": "unhandled_exception.UnhandledException.UnhandledException",
+    "href": "core_exception_unhandled_exception/UnhandledException/UnhandledException.html",
+    "kind": 2,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "Constructor for UnhandledException",
+    "enclosedBy": {
+      "name": "UnhandledException",
+      "kind": 3,
+      "href": "core_exception_unhandled_exception/UnhandledException-class.html"
+    }
+  },
+  {
+    "name": "message",
+    "qualifiedName": "unhandled_exception.UnhandledException.message",
+    "href": "core_exception_unhandled_exception/UnhandledException/message.html",
+    "kind": 16,
+    "overriddenDepth": 0,
+    "packageRank": 0,
+    "desc": "The message describing the exception.",
+    "enclosedBy": {
+      "name": "UnhandledException",
+      "kind": 3,
+      "href": "core_exception_unhandled_exception/UnhandledException-class.html"
+    }
+  },
+  {
+    "name": "toString",
+    "qualifiedName": "unhandled_exception.UnhandledException.toString",
+    "href": "core_exception_unhandled_exception/UnhandledException/toString.html",
+    "kind": 10,
+    "overriddenDepth": 1,
+    "packageRank": 0,
+    "desc": "The toString method",
+    "enclosedBy": {
+      "name": "UnhandledException",
+      "kind": 3,
+      "href": "core_exception_unhandled_exception/UnhandledException-class.html"
+    }
+  }
+]
