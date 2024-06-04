@@ -58,10 +58,6 @@ extension ArrayFilterExtension on ArrayFilter {
   /// filter's conditions.
   /// This new array is then returned.
   Array getFilteredArrayWithWhere(Array t) {
-    return t.where(
-      (element) {
-        return objectFilter.filter(t: element);
-      },
-    ).toList();
+    return t.where((element) => objectFilter.filter(t: element)).toList();
   }
 }
